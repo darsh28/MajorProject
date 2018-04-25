@@ -1,0 +1,6 @@
+framework module Pods_Major {
+  umbrella header "Pods-Major-umbrella.h"
+
+  export *
+  module * { export * }
+}
